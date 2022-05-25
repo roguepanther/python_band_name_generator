@@ -1,2 +1,2 @@
-# python_band_name_generator
-Udemy 100 Days of Code
+# Python Band Name Generator
+Udemy 100 Days of Code - Day 1
